@@ -1,0 +1,125 @@
+﻿#EXTM3U
+#EXTINF:-1,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1,RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1,KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1,KCN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1,BN
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1,BN MUSIC
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+#EXTINF:-1,DM SAT
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
+#EXTINF:-1,RTS KOLO
+http://93.87.85.70/PLTV/88888888/224/3221226917/03.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgLnPlyKqw6qfeZvQXgT95Xg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003880%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,DUGA PLUS
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1,SEHARA HD
+http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
+#EXTINF:-1,B1 TV HD
+http://proxy.bihnet.net:88/live/b1tv.m3u8
+#EXTINF:-1,PRUGA TV HD
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1,MIS TV HD
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/ILIJA.m3u8
+#EXTINF:-1,GLAS DRINE
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:-1,RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1,RTV 1
+rtsp://212.200.255.151/rtv1
+#EXTINF:-1,RTV 2
+rtsp://212.200.255.151/rtv2
+#EXTINF:-1,NOVOSADSKA TV
+mms://176.106.121.32:8090
+#EXTINF:-1,RTV BAP
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/ILIJA.m3u8
+#EXTINF:-1,PIROT TV
+https://53be5ef2d13aa.streamlock.net/tvpirot/uzivo/ILIJA.m3u8
+#EXTINF:-1,TREND
+rtmp://185.62.75.22:1935/trend/myStream
+#EXTINF:-1,RTV NOVI PAZAR
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1,JEFEMIJA
+rtmp://212.200.108.253/live/jefimija.flv
+#EXTINF:-1,TV CITY
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1,HRAM
+https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Z1
+http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1,RTV BANOVINA
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1,CRO TV HD
+rtmp://92.204.40.139/crotv/televizijahrvatskedijaspore
+#EXTINF:-1,RTCG SAT
+rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
+#EXTINF:-1,MRT 1
+http://135.125.204.34:8081/tvstanici/6/chunks.m3u8
+#EXTINF:-1,SITEL
+http://135.125.204.34:8081/tvstanici/1/chunks.m3u8
+#EXTINF:-1,SITEL
+http://51.178.133.43:8081/tvstanici/s1/chunks.m3u8
+#EXTINF:-1,TELMA
+http://135.125.204.34:8081/tvstanici/3/chunks.m3u8
+#EXTINF:-1,ALFA TV
+http://135.125.204.34:8081/tvstanici/4/chunks.m3u8
+#EXTINF:-1,KANAL 5
+http://135.125.204.34:8081/tvstanici/2/chunks.m3u8
+#EXTINF:-1,KANAL 8
+http://kanal8.hugo.mk:1935/live/kanal8/chunklist_w1353330200.m3u8
+#EXTINF:-1,ORBIS TV
+http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
+#EXTINF:-1,NASA TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1,TV VIS HD
+https://ok.ru/video/1558398049893
+#EXTINF:-1,M:NET HD
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:-1,MACEDONIAN DOCUMENTARY HD
+https://giganet.mk/hls/macdoc.m3u8
+#EXTINF:-1,24 VESTI
+http://135.125.204.34:8081/tvstanici/5/chunks.m3u8
+#EXTINF:-1,IN TV AUSTRALIA
+http://tv1.intv.mk:1935/live/intv/ILIJA.m3u8
+#EXTINF:-1,STAR FOLK HD
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1,SKY FOLK
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,BALKANIKA
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1,SOS
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/chunklist_w185254618.m3u8
+#EXTINF:-1,GB
+http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
+#EXTINF:-1,STUDIO B
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1,KURIR TV
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1,N1 SR
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 BH
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 HR
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,ALJAZEERA BALKANS HD
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://89.216.39.29:8001
+#EXTINF:-1,NAT GEO WILD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1,NATGEO WILD
+http://89.216.39.29:8004
+#EXTINF:-1,PINK KIDS
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/139
